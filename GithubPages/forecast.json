@@ -1,0 +1,88 @@
+{
+  "hourly": [
+    {
+      "time": "12 AM",
+      "temp": 62,
+      "humidity": 81,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "1 AM",
+      "temp": 61,
+      "humidity": 81,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "2 AM",
+      "temp": 59,
+      "humidity": 90,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "3 AM",
+      "temp": 58,
+      "humidity": 94,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "4 AM",
+      "temp": 56,
+      "humidity": 96,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "5 AM",
+      "temp": 55,
+      "humidity": 99,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "6 AM",
+      "temp": 54,
+      "humidity": 100,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "7 AM",
+      "temp": 57,
+      "humidity": 91,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "8 AM",
+      "temp": 61,
+      "humidity": 81,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "9 AM",
+      "temp": 66,
+      "humidity": 73,
+      "wind": 4.6,
+      "precip": 0
+    },
+    {
+      "time": "10 AM",
+      "temp": 72,
+      "humidity": 60,
+      "wind": 5.8,
+      "precip": 0
+    },
+    {
+      "time": "11 AM",
+      "temp": 78,
+      "humidity": 50,
+      "wind": 5.8,
+      "precip": 0
+    }
+  ]
+}

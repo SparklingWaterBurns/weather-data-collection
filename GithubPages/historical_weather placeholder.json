@@ -1,0 +1,416 @@
+{
+  "2024": {
+    "07": {
+      "13": {
+        "00": {
+          "temp": 22,
+          "precip": 0,
+          "storm": false,
+          "wind": 8,
+          "wind_gust": 12,
+          "humidity": 88,
+          "indoor_humidity": 40,
+          "air_quality": 42,
+          "allergies": {
+            "tree": 10,
+            "ragweed": 5,
+            "mold": 35,
+            "grass": 15,
+            "dust": 20
+          }
+        },
+        "01": {
+          "temp": 21,
+          "precip": 0,
+          "storm": false,
+          "wind": 7,
+          "wind_gust": 10,
+          "humidity": 89,
+          "indoor_humidity": 41,
+          "air_quality": 43,
+          "allergies": {
+            "tree": 12,
+            "ragweed": 6,
+            "mold": 36,
+            "grass": 14,
+            "dust": 21
+          }
+        },
+        "02": {
+          "temp": 21,
+          "precip": 0,
+          "storm": false,
+          "wind": 6,
+          "wind_gust": 10,
+          "humidity": 90,
+          "indoor_humidity": 42,
+          "air_quality": 44,
+          "allergies": {
+            "tree": 14,
+            "ragweed": 6,
+            "mold": 37,
+            "grass": 13,
+            "dust": 22
+          }
+        },
+        "03": {
+          "temp": 20,
+          "precip": 0.2,
+          "storm": false,
+          "wind": 5,
+          "wind_gust": 9,
+          "humidity": 91,
+          "indoor_humidity": 42,
+          "air_quality": 45,
+          "allergies": {
+            "tree": 16,
+            "ragweed": 7,
+            "mold": 38,
+            "grass": 12,
+            "dust": 23
+          }
+        },
+        "04": {
+          "temp": 20,
+          "precip": 0.5,
+          "storm": false,
+          "wind": 4,
+          "wind_gust": 8,
+          "humidity": 92,
+          "indoor_humidity": 43,
+          "air_quality": 46,
+          "allergies": {
+            "tree": 18,
+            "ragweed": 8,
+            "mold": 39,
+            "grass": 11,
+            "dust": 24
+          }
+        },
+        "05": {
+          "temp": 21,
+          "precip": 0.7,
+          "storm": true,
+          "wind": 6,
+          "wind_gust": 14,
+          "humidity": 88,
+          "indoor_humidity": 44,
+          "air_quality": 48,
+          "allergies": {
+            "tree": 20,
+            "ragweed": 9,
+            "mold": 40,
+            "grass": 10,
+            "dust": 25
+          }
+        },
+        "06": {
+          "temp": 22,
+          "precip": 1.1,
+          "storm": true,
+          "wind": 9,
+          "wind_gust": 18,
+          "humidity": 85,
+          "indoor_humidity": 45,
+          "air_quality": 50,
+          "allergies": {
+            "tree": 22,
+            "ragweed": 10,
+            "mold": 41,
+            "grass": 9,
+            "dust": 26
+          }
+        },
+        "07": {
+          "temp": 24,
+          "precip": 0.8,
+          "storm": false,
+          "wind": 11,
+          "wind_gust": 20,
+          "humidity": 80,
+          "indoor_humidity": 45,
+          "air_quality": 52,
+          "allergies": {
+            "tree": 24,
+            "ragweed": 11,
+            "mold": 42,
+            "grass": 8,
+            "dust": 27
+          }
+        },
+        "08": {
+          "temp": 26,
+          "precip": 0.4,
+          "storm": false,
+          "wind": 13,
+          "wind_gust": 22,
+          "humidity": 75,
+          "indoor_humidity": 44,
+          "air_quality": 54,
+          "allergies": {
+            "tree": 26,
+            "ragweed": 12,
+            "mold": 43,
+            "grass": 7,
+            "dust": 28
+          }
+        },
+        "09": {
+          "temp": 28,
+          "precip": 0,
+          "storm": false,
+          "wind": 15,
+          "wind_gust": 25,
+          "humidity": 70,
+          "indoor_humidity": 43,
+          "air_quality": 56,
+          "allergies": {
+            "tree": 28,
+            "ragweed": 13,
+            "mold": 44,
+            "grass": 6,
+            "dust": 29
+          }
+        },
+        "10": {
+          "temp": 30,
+          "precip": 0,
+          "storm": false,
+          "wind": 17,
+          "wind_gust": 28,
+          "humidity": 65,
+          "indoor_humidity": 42,
+          "air_quality": 58,
+          "allergies": {
+            "tree": 30,
+            "ragweed": 14,
+            "mold": 45,
+            "grass": 5,
+            "dust": 30
+          }
+        },
+        "11": {
+          "temp": 31,
+          "precip": 0,
+          "storm": false,
+          "wind": 19,
+          "wind_gust": 30,
+          "humidity": 60,
+          "indoor_humidity": 41,
+          "air_quality": 60,
+          "allergies": {
+            "tree": 32,
+            "ragweed": 15,
+            "mold": 46,
+            "grass": 4,
+            "dust": 31
+          }
+        },
+        "12": {
+          "temp": 32,
+          "precip": 0,
+          "storm": false,
+          "wind": 20,
+          "wind_gust": 32,
+          "humidity": 58,
+          "indoor_humidity": 40,
+          "air_quality": 61,
+          "allergies": {
+            "tree": 34,
+            "ragweed": 16,
+            "mold": 47,
+            "grass": 3,
+            "dust": 32
+          }
+        },
+        "13": {
+          "temp": 33,
+          "precip": 0,
+          "storm": true,
+          "wind": 22,
+          "wind_gust": 35,
+          "humidity": 56,
+          "indoor_humidity": 39,
+          "air_quality": 62,
+          "allergies": {
+            "tree": 36,
+            "ragweed": 17,
+            "mold": 48,
+            "grass": 2,
+            "dust": 33
+          }
+        },
+        "14": {
+          "temp": 34,
+          "precip": 0.3,
+          "storm": true,
+          "wind": 25,
+          "wind_gust": 38,
+          "humidity": 54,
+          "indoor_humidity": 38,
+          "air_quality": 63,
+          "allergies": {
+            "tree": 38,
+            "ragweed": 18,
+            "mold": 49,
+            "grass": 1,
+            "dust": 34
+          }
+        },
+        "15": {
+          "temp": 34,
+          "precip": 0.6,
+          "storm": true,
+          "wind": 27,
+          "wind_gust": 40,
+          "humidity": 52,
+          "indoor_humidity": 37,
+          "air_quality": 64,
+          "allergies": {
+            "tree": 40,
+            "ragweed": 19,
+            "mold": 50,
+            "grass": 0,
+            "dust": 35
+          }
+        },
+        "16": {
+          "temp": 33,
+          "precip": 1.0,
+          "storm": true,
+          "wind": 28,
+          "wind_gust": 42,
+          "humidity": 55,
+          "indoor_humidity": 38,
+          "air_quality": 65,
+          "allergies": {
+            "tree": 42,
+            "ragweed": 20,
+            "mold": 51,
+            "grass": 0,
+            "dust": 36
+          }
+        },
+        "17": {
+          "temp": 31,
+          "precip": 0.8,
+          "storm": false,
+          "wind": 24,
+          "wind_gust": 39,
+          "humidity": 58,
+          "indoor_humidity": 39,
+          "air_quality": 64,
+          "allergies": {
+            "tree": 44,
+            "ragweed": 21,
+            "mold": 52,
+            "grass": 1,
+            "dust": 37
+          }
+        },
+        "18": {
+          "temp": 29,
+          "precip": 0.4,
+          "storm": false,
+          "wind": 20,
+          "wind_gust": 35,
+          "humidity": 62,
+          "indoor_humidity": 40,
+          "air_quality": 63,
+          "allergies": {
+            "tree": 46,
+            "ragweed": 22,
+            "mold": 53,
+            "grass": 2,
+            "dust": 38
+          }
+        },
+        "19": {
+          "temp": 27,
+          "precip": 0.1,
+          "storm": false,
+          "wind": 17,
+          "wind_gust": 30,
+          "humidity": 68,
+          "indoor_humidity": 41,
+          "air_quality": 61,
+          "allergies": {
+            "tree": 48,
+            "ragweed": 23,
+            "mold": 54,
+            "grass": 3,
+            "dust": 39
+          }
+        },
+        "20": {
+          "temp": 26,
+          "precip": 0,
+          "storm": false,
+          "wind": 14,
+          "wind_gust": 26,
+          "humidity": 72,
+          "indoor_humidity": 42,
+          "air_quality": 59,
+          "allergies": {
+            "tree": 50,
+            "ragweed": 24,
+            "mold": 55,
+            "grass": 4,
+            "dust": 40
+          }
+        },
+        "21": {
+          "temp": 25,
+          "precip": 0,
+          "storm": false,
+          "wind": 11,
+          "wind_gust": 22,
+          "humidity": 75,
+          "indoor_humidity": 43,
+          "air_quality": 57,
+          "allergies": {
+            "tree": 52,
+            "ragweed": 25,
+            "mold": 56,
+            "grass": 5,
+            "dust": 41
+          }
+        },
+        "22": {
+          "temp": 24,
+          "precip": 0,
+          "storm": false,
+          "wind": 9,
+          "wind_gust": 18,
+          "humidity": 78,
+          "indoor_humidity": 44,
+          "air_quality": 55,
+          "allergies": {
+            "tree": 54,
+            "ragweed": 26,
+            "mold": 57,
+            "grass": 6,
+            "dust": 42
+          }
+        },
+        "23": {
+          "temp": 23,
+          "precip": 0,
+          "storm": false,
+          "wind": 7,
+          "wind_gust": 15,
+          "humidity": 82,
+          "indoor_humidity": 45,
+          "air_quality": 53,
+          "allergies": {
+            "tree": 56,
+            "ragweed": 27,
+            "mold": 58,
+            "grass": 7,
+            "dust": 43
+          }
+        }
+      }
+    }
+  }
+}
