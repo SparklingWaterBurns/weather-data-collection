@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="icon" type="image/x-icon" href="favicon.png">
+  <title>Weather Data Project</title>
+  <script src="./js/chart.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 1em;
+      background-color: #f0f4f8;
+      color: #333;
+    }
+    h1 {
+      margin-bottom: 0.2em;
+    }
+    .section {
+      margin-top: 2em;
+    }
+    .alert {
+      background: #ffe5e5;
+      border: 1px solid #ff8888;
+      padding: 1em;
+      margin-bottom: 1em;
+    }
+    .weather-card {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      margin-bottom: 1em;
+      padding: 1em;
+    }
+    .hourly {
+      font-size: 0.9em;
+      margin-left: 1em;
+    }
+    canvas {
+      max-width: 100%;
+      margin-top: 1em;
+    }
+  </style>
+</head>
+<body>
+  <h1 align="center">Weather data project</h1>
+  <p align="center">This is a preview of the data collected using my weather data project. It grabs data from Accuweather using the provided API and LOCATION key, then saves it to a json to be displayed on the webpage. I ran this on my homelab from June-September 2025. There are a few missing bits of data due to the script quitting itself sometimes.</p>
+  <h1>Weather Dashboard</h1>  <div class="section" id="currentForecast">
+    <h2>Current Forecast</h2>
+    <canvas id="hourlyChart"></canvas>
+    <div id="forecastContainer">Loading forecast...</div>
+  </div>  <div class="section" id="weatherAlerts">
+    <h2>Weather Alerts</h2>
+    <div id="alertsContainer">Checking for alerts...</div>
+  </div>  <div class="section" id="historicalWeather">
+    <h2>Historical Weather</h2>
+    <canvas id="weatherChart"></canvas>
+    <div id="historicalContainer">Loading history...</div>
+  </div>
+<script src="./js/index.js"></script></body>
+</html>
