@@ -10,4 +10,7 @@ Saves it to a JSON file.
 The webpage displays the data using chart.js
 
 # Disclaimer
+
+The webpage is rough. Feel free to make any customizations.
+
 There is unused/trashed code in this.
