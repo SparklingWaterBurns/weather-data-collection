@@ -14,3 +14,6 @@ The webpage displays the data using chart.js
 The webpage is rough. Feel free to make any customizations.
 
 There is unused/trashed code in this.
+
+# Note
+Created by Curtis Taylor (Github: SparklingWaterBurns) as of 2025-2026. (Wrote this on 1/4/2026)
