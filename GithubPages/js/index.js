@@ -1,5 +1,5 @@
-const FORECAST_JSON_PATH = 'forecast.json';
-    const HISTORICAL_JSON_PATH = 'historical_weather.json';
+const FORECAST_JSON_PATH = '../forecast.json';
+    const HISTORICAL_JSON_PATH = '../historical_weather.json';
 
     async function loadCurrentForecast() { try { const response = await fetch(FORECAST_JSON_PATH); const forecast = await response.json();
 
