@@ -476,6 +476,5 @@ new Chart(ctx, {
 
     window.addEventListener('DOMContentLoaded', () => {
       loadCurrentForecast();
-      loadWeatherAlerts();
       loadHistoricalData();
     });
