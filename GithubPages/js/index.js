@@ -130,7 +130,7 @@ new Chart(ctx, {
 const useFahrenheit = true; // Global toggle
 
 async function loadHistoricalData() { try { const response = await fetch(HISTORICAL_JSON_PATH); const history = await response.json();
-
+document.getElementById('historicalContainer').remove();
 const labels = [];
 const chartTemps = [];
 const humidity = [];
