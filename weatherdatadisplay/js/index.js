@@ -127,10 +127,6 @@ new Chart(ctx, {
 }
 
 
-    async function loadWeatherAlerts() {
-      document.getElementById('alertsContainer').innerText = "placeholder.";
-    }
-
 const useFahrenheit = true; // Global toggle
 
 async function loadHistoricalData() { try { const response = await fetch(HISTORICAL_JSON_PATH); const history = await response.json();
@@ -480,6 +476,5 @@ new Chart(ctx, {
 
     window.addEventListener('DOMContentLoaded', () => {
       loadCurrentForecast();
-      loadWeatherAlerts();
       loadHistoricalData();
     });
